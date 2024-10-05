@@ -1,4 +1,7 @@
+/.git
+/.idea
 /.venv
+/__pycache__
 /build
 /dist
 info.ini
